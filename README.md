@@ -20,9 +20,9 @@ You can test at .
 
 # ScreenShots
 
-[]: # Path: screenshots/1.png
-[]: # Path: screenshots/2.png
-[]: # Path: screenshots/3.png
+![plot](./screenshots/1.png)
+![plot](./screenshots/2.png)
+![plot](./screenshots/3.png)
 
 # Note
 
